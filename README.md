@@ -1,2 +1,3 @@
 # fdw_tablet
-A tablet for FiveM Servers
+This script is currently in beta and only available for a small amount of people.
+1.0 will likely release later this year.
